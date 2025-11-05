@@ -1,0 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package trabajopractico8.parte1;
+
+/**
+ *
+ * @author matut
+ */
+public interface Pago {
+    public double procesarPago(double monto);
+}
